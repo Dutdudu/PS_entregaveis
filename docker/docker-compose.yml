@@ -1,0 +1,15 @@
+version: "3"
+
+services:
+    tarefa:
+      container_name: "tarefa"
+      image: 7705b1c9a481
+      privileged: true
+      environment:
+        - DISPLAY=${DISPLAY}
+      volumes:
+       - /tmp/.X11-unix:/tmp/.X11-unix
+       - /etc/localtime:/etc/localtime
+      network_mode: host
+      stdin_open: true
+      tty: true
