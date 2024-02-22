@@ -37,11 +37,18 @@ class Frota():
         for i, drone in enumerate(sorted_drones, start=1):
             print(f"{i}. {drone.nome}")
         print("-----------------------------------------------")
+    def rank_por_qtd_motor(self)  :
+        print('Rank por quantidade de motores: ')
+        print("-----------------------------------------------")
+        sorted_drones = sorted(self.frota, key=lambda y: y.num_mot)
+        for i, drone in enumerate(sorted_drones, start=1):
+            print(f"{i}. {drone.nome}")
+        print("-----------------------------------------------")
 
 
-drone1 = Drone(3,4,2018,"Rei dos céus","azul")    
-drone2 = Drone(5,1,2020,"Tempestade","verde")    
-drone3 = Drone(1,2,2017,"Peixe aéreo","vermelho")    
+drone1 = Drone(1,4,2018,"Rei dos céus","azul")    
+drone2 = Drone(3,1,2020,"Tempestade","verde")    
+drone3 = Drone(5,2,2017,"Peixe aéreo","vermelho")    
 frota = Frota()
 frota.add_drone(drone1)
 frota.add_drone(drone2)
@@ -50,4 +57,5 @@ frota.add_drone(drone3)
 drone1.exibir_indv()
 
 frota.exibir_todos()    
-frota.rank_por_ano()    
+frota.rank_por_ano()   
+frota.rank_por_qtd_motor()   
