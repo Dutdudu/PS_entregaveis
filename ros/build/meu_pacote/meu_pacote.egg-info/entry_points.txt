@@ -1,0 +1,5 @@
+[console_scripts]
+assinante = meu_pacote.subscriber:main
+ola = meu_pacote.ola:main
+publicador = meu_pacote.publisher:main
+

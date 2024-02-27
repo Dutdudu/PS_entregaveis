@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+meu_pacote/__init__.py
+meu_pacote/ola.py
+meu_pacote/publisher.py
+meu_pacote/subscriber.py
+meu_pacote.egg-info/PKG-INFO
+meu_pacote.egg-info/SOURCES.txt
+meu_pacote.egg-info/dependency_links.txt
+meu_pacote.egg-info/entry_points.txt
+meu_pacote.egg-info/requires.txt
+meu_pacote.egg-info/top_level.txt
+meu_pacote.egg-info/zip-safe
+resource/meu_pacote
