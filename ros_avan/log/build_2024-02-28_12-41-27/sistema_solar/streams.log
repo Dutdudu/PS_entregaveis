@@ -1,0 +1,21 @@
+[1.142s] Invoking command in '/home/dutdudu/P.S_entregas/ros_avan/build/sistema_solar': PYTHONPATH=/home/dutdudu/P.S_entregas/ros_avan/build/sistema_solar/prefix_override:/home/dutdudu/P.S_entregas/ros_avan/install/sistema_solar/lib/python3.10/site-packages:${PYTHONPATH} WSLENV=ELECTRON_RUN_AS_NODE/w: /usr/bin/python3 setup.py develop --editable --build-directory /home/dutdudu/P.S_entregas/ros_avan/build/sistema_solar/build --no-deps install_data
+[1.504s] running develop
+[1.505s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.505s]   warnings.warn(
+[1.506s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.506s]   warnings.warn(
+[1.710s] running egg_info
+[1.710s] writing sistema_solar.egg-info/PKG-INFO
+[1.711s] writing dependency_links to sistema_solar.egg-info/dependency_links.txt
+[1.711s] writing entry points to sistema_solar.egg-info/entry_points.txt
+[1.711s] writing requirements to sistema_solar.egg-info/requires.txt
+[1.711s] writing top-level names to sistema_solar.egg-info/top_level.txt
+[1.712s] reading manifest file 'sistema_solar.egg-info/SOURCES.txt'
+[1.713s] writing manifest file 'sistema_solar.egg-info/SOURCES.txt'
+[1.717s] running build_ext
+[1.717s] Creating /home/dutdudu/P.S_entregas/ros_avan/install/sistema_solar/lib/python3.10/site-packages/sistema-solar.egg-link (link to .)
+[1.718s] Installing frame_fixo script to /home/dutdudu/P.S_entregas/ros_avan/install/sistema_solar/lib/sistema_solar
+[1.718s] 
+[1.718s] Installed /home/dutdudu/P.S_entregas/ros_avan/build/sistema_solar
+[1.718s] running install_data
+[1.742s] Invoked command in '/home/dutdudu/P.S_entregas/ros_avan/build/sistema_solar' returned '0': PYTHONPATH=/home/dutdudu/P.S_entregas/ros_avan/build/sistema_solar/prefix_override:/home/dutdudu/P.S_entregas/ros_avan/install/sistema_solar/lib/python3.10/site-packages:${PYTHONPATH} WSLENV=ELECTRON_RUN_AS_NODE/w: /usr/bin/python3 setup.py develop --editable --build-directory /home/dutdudu/P.S_entregas/ros_avan/build/sistema_solar/build --no-deps install_data

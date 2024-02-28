@@ -1,0 +1,24 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running egg_info
+writing sistema_solar.egg-info/PKG-INFO
+writing dependency_links to sistema_solar.egg-info/dependency_links.txt
+writing entry points to sistema_solar.egg-info/entry_points.txt
+writing requirements to sistema_solar.egg-info/requires.txt
+writing top-level names to sistema_solar.egg-info/top_level.txt
+reading manifest file 'sistema_solar.egg-info/SOURCES.txt'
+writing manifest file 'sistema_solar.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/dutdudu/P.S_entregas/ros_avan/install/sistema_solar/lib/python3.10/site-packages/sistema-solar.egg-link (link to .)
+Installing frame_dinamico script to /home/dutdudu/P.S_entregas/ros_avan/install/sistema_solar/lib/sistema_solar
+Installing frame_fixo script to /home/dutdudu/P.S_entregas/ros_avan/install/sistema_solar/lib/sistema_solar
+Installing mercurio script to /home/dutdudu/P.S_entregas/ros_avan/install/sistema_solar/lib/sistema_solar
+Installing parametros script to /home/dutdudu/P.S_entregas/ros_avan/install/sistema_solar/lib/sistema_solar
+Installing satelite script to /home/dutdudu/P.S_entregas/ros_avan/install/sistema_solar/lib/sistema_solar
+
+Installed /home/dutdudu/P.S_entregas/ros_avan/build/sistema_solar
+running install_data
+copying launch/rodar_nos.launch.py -> /home/dutdudu/P.S_entregas/ros_avan/install/sistema_solar/share/sistema_solar/launch

@@ -1,0 +1,23 @@
+[1.176s] Invoking command in '/home/dutdudu/P.S_entregas/ros/build/meu_pacote': PYTHONPATH=/home/dutdudu/P.S_entregas/ros/build/meu_pacote/prefix_override:/home/dutdudu/P.S_entregas/ros/install/meu_pacote/lib/python3.10/site-packages:${PYTHONPATH} WSLENV=ELECTRON_RUN_AS_NODE/w: /usr/bin/python3 setup.py develop --editable --build-directory /home/dutdudu/P.S_entregas/ros/build/meu_pacote/build --no-deps install_data
+[1.528s] running develop
+[1.582s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.582s]   warnings.warn(
+[1.584s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.584s]   warnings.warn(
+[1.789s] running egg_info
+[1.789s] writing meu_pacote.egg-info/PKG-INFO
+[1.790s] writing dependency_links to meu_pacote.egg-info/dependency_links.txt
+[1.790s] writing entry points to meu_pacote.egg-info/entry_points.txt
+[1.790s] writing requirements to meu_pacote.egg-info/requires.txt
+[1.790s] writing top-level names to meu_pacote.egg-info/top_level.txt
+[1.791s] reading manifest file 'meu_pacote.egg-info/SOURCES.txt'
+[1.792s] writing manifest file 'meu_pacote.egg-info/SOURCES.txt'
+[1.796s] running build_ext
+[1.796s] Creating /home/dutdudu/P.S_entregas/ros/install/meu_pacote/lib/python3.10/site-packages/meu-pacote.egg-link (link to .)
+[1.797s] Installing assinante script to /home/dutdudu/P.S_entregas/ros/install/meu_pacote/lib/meu_pacote
+[1.797s] Installing ola script to /home/dutdudu/P.S_entregas/ros/install/meu_pacote/lib/meu_pacote
+[1.797s] Installing publicador script to /home/dutdudu/P.S_entregas/ros/install/meu_pacote/lib/meu_pacote
+[1.797s] 
+[1.797s] Installed /home/dutdudu/P.S_entregas/ros/build/meu_pacote
+[1.797s] running install_data
+[1.819s] Invoked command in '/home/dutdudu/P.S_entregas/ros/build/meu_pacote' returned '0': PYTHONPATH=/home/dutdudu/P.S_entregas/ros/build/meu_pacote/prefix_override:/home/dutdudu/P.S_entregas/ros/install/meu_pacote/lib/python3.10/site-packages:${PYTHONPATH} WSLENV=ELECTRON_RUN_AS_NODE/w: /usr/bin/python3 setup.py develop --editable --build-directory /home/dutdudu/P.S_entregas/ros/build/meu_pacote/build --no-deps install_data

@@ -1,0 +1,25 @@
+[0.437s] Invoking command in '/home/dutdudu/P.S_entregas/ros_avan/build/sistema_solar': PYTHONPATH=/home/dutdudu/P.S_entregas/ros_avan/build/sistema_solar/prefix_override:/home/dutdudu/P.S_entregas/ros_avan/install/sistema_solar/lib/python3.10/site-packages: WSLENV=ELECTRON_RUN_AS_NODE/w: /usr/bin/python3 setup.py develop --editable --build-directory /home/dutdudu/P.S_entregas/ros_avan/build/sistema_solar/build --no-deps install_data
+[0.598s] running develop
+[0.599s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.599s]   warnings.warn(
+[0.600s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.600s]   warnings.warn(
+[0.666s] running egg_info
+[0.666s] writing sistema_solar.egg-info/PKG-INFO
+[0.667s] writing dependency_links to sistema_solar.egg-info/dependency_links.txt
+[0.667s] writing entry points to sistema_solar.egg-info/entry_points.txt
+[0.667s] writing requirements to sistema_solar.egg-info/requires.txt
+[0.667s] writing top-level names to sistema_solar.egg-info/top_level.txt
+[0.668s] reading manifest file 'sistema_solar.egg-info/SOURCES.txt'
+[0.669s] writing manifest file 'sistema_solar.egg-info/SOURCES.txt'
+[0.669s] running build_ext
+[0.669s] Creating /home/dutdudu/P.S_entregas/ros_avan/install/sistema_solar/lib/python3.10/site-packages/sistema-solar.egg-link (link to .)
+[0.670s] Installing frame_dinamico script to /home/dutdudu/P.S_entregas/ros_avan/install/sistema_solar/lib/sistema_solar
+[0.670s] Installing frame_fixo script to /home/dutdudu/P.S_entregas/ros_avan/install/sistema_solar/lib/sistema_solar
+[0.670s] Installing parametros script to /home/dutdudu/P.S_entregas/ros_avan/install/sistema_solar/lib/sistema_solar
+[0.670s] 
+[0.670s] Installed /home/dutdudu/P.S_entregas/ros_avan/build/sistema_solar
+[0.671s] running install_data
+[0.671s] copying launch/rodar_nos.launch.py -> /home/dutdudu/P.S_entregas/ros_avan/install/sistema_solar/share/sistema_solar/launch
+[0.671s] creating /home/dutdudu/P.S_entregas/ros_avan/install/sistema_solar/share/sistema_solar/config
+[0.690s] Invoked command in '/home/dutdudu/P.S_entregas/ros_avan/build/sistema_solar' returned '0': PYTHONPATH=/home/dutdudu/P.S_entregas/ros_avan/build/sistema_solar/prefix_override:/home/dutdudu/P.S_entregas/ros_avan/install/sistema_solar/lib/python3.10/site-packages: WSLENV=ELECTRON_RUN_AS_NODE/w: /usr/bin/python3 setup.py develop --editable --build-directory /home/dutdudu/P.S_entregas/ros_avan/build/sistema_solar/build --no-deps install_data

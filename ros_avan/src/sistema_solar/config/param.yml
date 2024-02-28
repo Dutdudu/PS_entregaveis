@@ -1,0 +1,4 @@
+parametros:
+  ros_parameters:
+    nome_do_planeta: 'terra'
+    raio_da_orbita: 5

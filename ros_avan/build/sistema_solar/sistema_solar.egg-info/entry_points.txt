@@ -1,0 +1,7 @@
+[console_scripts]
+frame_dinamico = sistema_solar.frame_dinamico:main
+frame_fixo = sistema_solar.frame_fixo:main
+mercurio = sistema_solar.mercurio:main
+parametros = sistema_solar.parametros:main
+satelite = sistema_solar.satelite:main
+
