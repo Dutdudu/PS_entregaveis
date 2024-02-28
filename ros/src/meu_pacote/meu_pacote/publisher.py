@@ -26,7 +26,7 @@ class Publicador(Node):
         msg.linear.z = 2.2
         msg.angular.x = 0.3
         msg.angular.y = 2.7
-        msg.angular.z = 3.7
+        msg.angular.z = 3.6
         
         self._publicador.publish(msg)
 
